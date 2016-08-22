@@ -1,1 +1,1 @@
-# go_randomforest
+# go实现的RandomForest算法
